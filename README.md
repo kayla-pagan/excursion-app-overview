@@ -4,7 +4,7 @@ This project is a full-stack vacation booking platform with a Java Spring Boot b
 
 Note: This repository does not contain the actual project code, as the code is proprietary and maintained privately. This README serves to document the project features, functionality, and my contributions for reference.
 
-Key Components
+## Key Components
 1. Entities
 Entities represent the tables in the MySQL database. I created individual entity classes for each table (e.g., Vacation, Excursion, Customer, Cart, etc.). Each entity is mapped to a corresponding table in the database, and relationships between these entities were defined using annotations.
 
